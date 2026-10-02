@@ -1,0 +1,19 @@
+{
+  "name": "cad0p-zsh-theme",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A minimal oh-my-zsh theme: 24-hour clock, user@host:dir, git:(branch).",
+  "keywords": [
+    "zsh",
+    "oh-my-zsh",
+    "theme",
+    "prompt",
+    "git"
+  ],
+  "license": "MIT",
+  "author": "cad0p",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cad0p/cad0p-zsh-theme.git"
+  }
+}
